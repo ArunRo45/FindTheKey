@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 891f3addbe0838c48851ee4fa3703ef9, type: 3}
+  m_Name: BackGrounds
+  m_EditorClassIdentifier: 
+  BgSprites:
+  - {fileID: 7675246805903033130, guid: bd5ebb59597091c4482c9018345d83d4, type: 3}
+  - {fileID: 8574664131367716867, guid: 898bdf20751ca9c4e91214eff5edb103, type: 3}
+  - {fileID: 7902956623071938105, guid: b92ae49b91122f943a2f38e4c6323169, type: 3}
+  - {fileID: 4990283896970854954, guid: 250a7ad9e3adcbf4d859447a703ec093, type: 3}
+  - {fileID: 9070440729466259762, guid: bf5bf08f36bed0241b1e2c628bcd5024, type: 3}
+  - {fileID: 7877172727523363808, guid: 30cc378d747cb884a879eea0e9503e33, type: 3}
+  - {fileID: 3982572896969686757, guid: c21c413b3325f494095a984da6f55980, type: 3}
+  - {fileID: 2159115150298114509, guid: 7467b00b0b4ea754dbd84ed06c67ca3b, type: 3}
